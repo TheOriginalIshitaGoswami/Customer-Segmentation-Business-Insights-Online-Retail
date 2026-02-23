@@ -1,5 +1,12 @@
 # Customer-Segmentation-Business-Insights-Online-Retail
-Customer segmentation project using clustering to identify distinct purchasing behaviour groups based on spending patterns, engagement metrics, and transaction characteristics for targeted business strategy development. 
+Customer segmentation project using clustering to identify distinct purchasing behaviour groups based on spending patterns, engagement metrics, and transaction characteristics for targeted business strategy development. The comprehensive dataset contains e-commerce transactions from a Turkish online retail platform, spanning from January 2023 to March 2024. The dataset provides detailed insights into customer demographics, purchasing behavior, product preferences, and engagement metrics.
+
+Link to Dataset-Uygurr, U. (2025). E-commerce customer behavior & sales analysis– TR [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/13664353
+
+## Business Problem
+- The Turkish E-commerce Platform sees a decline in customer retention and inefficient marketing spend.
+- The business lacks understanding of distinct customer segments within its diverse user base.
+- Personalized engagement strategies cannot be effectively developed without data-driven segmentation.
 
 ## Basic Information of the Clusters
 
